@@ -1,0 +1,12 @@
+C:\Users\Hamed Rahmati\source\repos\KatzeOS3\KatzeOS3\bin\Debug\net6.0\KatzeOS3.deps.json
+C:\Users\Hamed Rahmati\source\repos\KatzeOS3\KatzeOS3\bin\Debug\net6.0\KatzeOS3.dll
+C:\Users\Hamed Rahmati\source\repos\KatzeOS3\KatzeOS3\bin\Debug\net6.0\KatzeOS3.pdb
+C:\Users\Hamed Rahmati\source\repos\KatzeOS3\KatzeOS3\obj\Debug\net6.0\KatzeOS3.csproj.AssemblyReference.cache
+C:\Users\Hamed Rahmati\source\repos\KatzeOS3\KatzeOS3\obj\Debug\net6.0\KatzeOS3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamed Rahmati\source\repos\KatzeOS3\KatzeOS3\obj\Debug\net6.0\KatzeOS3.AssemblyInfoInputs.cache
+C:\Users\Hamed Rahmati\source\repos\KatzeOS3\KatzeOS3\obj\Debug\net6.0\KatzeOS3.AssemblyInfo.cs
+C:\Users\Hamed Rahmati\source\repos\KatzeOS3\KatzeOS3\obj\Debug\net6.0\KatzeOS3.csproj.CoreCompileInputs.cache
+C:\Users\Hamed Rahmati\source\repos\KatzeOS3\KatzeOS3\obj\Debug\net6.0\KatzeOS3.dll
+C:\Users\Hamed Rahmati\source\repos\KatzeOS3\KatzeOS3\obj\Debug\net6.0\refint\KatzeOS3.dll
+C:\Users\Hamed Rahmati\source\repos\KatzeOS3\KatzeOS3\obj\Debug\net6.0\KatzeOS3.pdb
+C:\Users\Hamed Rahmati\source\repos\KatzeOS3\KatzeOS3\obj\Debug\net6.0\ref\KatzeOS3.dll
